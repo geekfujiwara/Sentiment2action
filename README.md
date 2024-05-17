@@ -44,16 +44,16 @@ AI Builder を利用するアプリです。そのため、Power Apps Premium �
 
 一部コントロールとして、PCF ギャラリーの[Progress Bar](https://pcf.gallery/progressbar/) を利用しています。
 
-そのためPCFギャラリーの[使用権](https://pcf.gallery/progressbar/)をご確認ください。
+そのためPCFギャラリーから[ソリューション](https://github.com/365lyf/PCFControls/blob/master/ProgressBar/Solution.zip)のダウンロードとインポートを先に行ってください。
 
 
 ![image](https://github.com/geekfujiwara/Sentiment2action/assets/96101315/68e16462-1962-41f2-b3e4-f1df525b3d2d)
 
 ## 環境へのインポート
 
-### インポートするファイルを入手
+### ソリューションファイルを入手
 
-インポートファイルは[こちらから入手](https://github.com/geekfujiwara/Sentiment2action/releases)できます。
+本ソリューションのファイルは[こちらから入手](https://github.com/geekfujiwara/Sentiment2action/releases)できます。
 
 最新版を入手するようにしてください。
 
